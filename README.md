@@ -14,5 +14,4 @@ To play this game you need a Leap Motion.
   Windows:
     java -classpath "LeapJava.jar;." SpankTheMonkey
 6. Open this link: http://www.spank.tm/
-
 HAVE FUN
