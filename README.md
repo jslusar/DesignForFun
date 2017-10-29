@@ -24,5 +24,8 @@ To play this game you need a Leap Motion.
     java -classpath "LeapJava.jar;." SpankTheMonkey
     
 6. Open this link: http://www.spank.tm/
+7. The mouse will now follow your fist
+8. To click on the hand hover over it and open your fist
+9. Keep your hand open and move your quickly move your hand horizontally to slep the monkey
 
-HAVE FUN
+HAVE FUN - see who can slep the monkey the hardest
