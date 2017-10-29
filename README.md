@@ -28,4 +28,4 @@ To play this game you need a Leap Motion.
 8. To click on the hand hover over it and open your fist
 9. Keep your hand open and quickly move your hand horizontally to slap the monkey
 
-HAVE FUN - see who can slep the monkey the hardest!
+HAVE FUN - see who can slap the monkey the hardest!
